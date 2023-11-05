@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "z7OwOgoXw6WC2SA7LNZgOcKmL932qrk8db8IBb6lZWryB29pl2UO9EqNsRb5MPGYEer3qOs641Q7CHsG3qaTQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faysa\\source\\repos\\DemoImage\\DemoImage\\DemoImage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faysa\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\faysa\\.nuget\\packages\\sixlabors.fonts\\2.0.0\\sixlabors.fonts.2.0.0.nupkg.sha512",
+    "C:\\Users\\faysa\\.nuget\\packages\\sixlabors.imagesharp\\3.0.2\\sixlabors.imagesharp.3.0.2.nupkg.sha512",
+    "C:\\Users\\faysa\\.nuget\\packages\\sixlabors.imagesharp.drawing\\2.0.0\\sixlabors.imagesharp.drawing.2.0.0.nupkg.sha512",
+    "C:\\Users\\faysa\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
